@@ -1,8 +1,3 @@
+I have updated this java class contains the DB related code..
 Hello this file contains DB related code
-gjbrgjkhg
-]ggjkkjghkg
-gwghwekfhwiueg8f
-GewejfgweufhG
-GhiugIUGWG
-WgGJHWEFGIWEHFweg
-GwebfjEBFKw
+This Line updating for change in logic...
