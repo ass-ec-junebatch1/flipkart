@@ -1,2 +1,3 @@
-Hello this file contains deploy related code
-Good Morning
+Updating in dev branch...
+This file contains deployment script
+Updated manually in GitHub GUI
